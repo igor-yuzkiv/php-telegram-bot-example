@@ -1,0 +1,11 @@
+{
+  "name": "igor-yuzkiv/php-telegram-bot-example",
+  "autoload": {
+    "classmap": [
+      "Commands/"
+    ]
+  },
+  "require": {
+    "igor-yuzkiv/php-telegram-bot": "1.0.2"
+  }
+}
